@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Программа склоние \"Рубль\"");
+        System.out.println("Программа склонение \"Рубль\"");
         System.out.print("Введите целое число и нажмите enter: ");
         int i = sc.nextInt();
         switch(i % 100) {
